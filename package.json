@@ -1,0 +1,25 @@
+{
+  "name": "paste_stackoverflow_result",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get_StackOverflow_result.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "google": "^2.0.0",
+    "sync-request": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kipsten/auto-insert-first-StackOverflow-result-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kipsten/auto-insert-first-StackOverflow-result-code/issues"
+  },
+  "homepage": "https://github.com/kipsten/auto-insert-first-StackOverflow-result-code#readme"
+}
